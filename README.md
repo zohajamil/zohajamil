@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into MEAN/MERN stack and exploring advanced concepts in TypeScript.
+I'm currently diving deeper into MEAN/MERN stack and exploring advanced concepts in TypeScript. Moreover, I'm also looking to develop my skills in Tailwind & shadcn/ui as they are widely used with Next.js.
 
 ## 🌟 Let's Connect!
 
