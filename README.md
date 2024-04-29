@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 📚 Certification
 
-- **AWS Cloud Practitioner**
+- **AWS Cloud Practitioner** - [See Certification](https://www.credly.com/badges/92e1457d-755c-424b-bb4fa6f08adc51b0/linked_in_profile)
 
 ## 🌱 Currently Learning
 
